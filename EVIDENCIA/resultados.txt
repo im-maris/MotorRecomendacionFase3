@@ -1,0 +1,12 @@
+Release (NDEBUG):
+TODAS LAS PRUEBAS PASARON: 11 grupos, 1365 verificaciones.
+AddressSanitizer + UndefinedBehaviorSanitizer:
+TODAS LAS PRUEBAS PASARON: 11 grupos, 1365 verificaciones.
+
+Prueba de menu con copia de los datos:
+Opcion: Nuevo ID: Titulo: Categoria (ej: Tecnologia/Programacion): Popularidad inicial (0-100): Etiquetas separadas por comas (puede quedar vacio): Contenido registrado.
+[107] Aventuras de ciencia ficcion | saltos 2 | peso de ruta 0.25
+Opcion: Ultima interaccion deshecha.
+[102] Estructuras de datos | vistas 0 | nota 3/5 | favorito no
+Opcion: Opcion reservada al administrador.
+Opcion: Hasta pronto.
